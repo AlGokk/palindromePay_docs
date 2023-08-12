@@ -131,14 +131,14 @@ export function Hero() {
               </div>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="#quick-start">Get started</Button>
-                <Button
+                {/* <Button
                   href="https://github.com/Palindromenetwork"
                   variant="secondary"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   View on GitHub
-                </Button>
+                </Button> */}
               </div>
             </div>
           </div>
