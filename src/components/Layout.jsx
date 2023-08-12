@@ -10,7 +10,7 @@ import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
-import Palindrome_crypto_pay from '../images/Palindrome_crypto_pay.png'
+import Palindrome_crypto_pay from '../images/palindrome_crypto_pay.png'
 
 const navigation = [
   {
