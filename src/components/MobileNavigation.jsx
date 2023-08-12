@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { Dialog } from '@headlessui/react'
-import Palindrome_crypto_pay from '../images/Palindrome_crypto_pay_192.png'
+import Palindrome_crypto_pay from '../images/palindrome_crypto_pay_192.png'
 import { Logomark } from '@/components/Logo'
 import { Navigation } from '@/components/Navigation'
 
