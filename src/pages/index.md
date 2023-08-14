@@ -4,7 +4,7 @@ pageTitle: Palindrome - Decentralized Crypto Pay Documentation.
 description: Integrate the Payment-System into your Online-Shop and never use a centralized crypto payment system again.
 ---
 
-Learn how to get Palindrome Crypto Pay SDK set up. {% .lead %}
+Learn how to getPalindrome Crypto Pay SDK set up. {% .lead %}
 
 {% quick-links %}
 

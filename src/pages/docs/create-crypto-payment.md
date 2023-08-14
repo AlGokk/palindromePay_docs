@@ -13,7 +13,7 @@ Call the `Init()` function to create the payment system. In the background an ow
 
 ### Import Functions
 
-In the first step you need to import the Palindrome Pay SDK into your JavaScript/TypeScript project with the needed function `PalindromePayCreatePayment`.
+In the first step you need to import thePalindrome Crypto Pay SDK into your JavaScript/TypeScript project with the needed function `PalindromePayCreatePayment`.
 
 ```js
 import {

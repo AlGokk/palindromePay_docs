@@ -9,11 +9,11 @@ Before you can create a payment system or send any transaction you need to conne
 
 ## connectMetamask
 
-Call the `connectMetamask(args)` function to connect with Metamask over Desktop Computer. Palindrome Payment is supporting multiple chains such as AVAX, Ethereum & BSC. Therefore, you need to pass the chainID or rpc with chainID so that the Palindrome Pay Crypto SDK can recognize the chain you want to work with.
+Call the `connectMetamask(args)` function to connect with Metamask over Desktop Computer.Palindrome Crypto Payment is supporting multiple chains such as AVAX, Ethereum & BSC. Therefore, you need to pass the chainID or rpc with chainID so that thePalindrome Crypto Pay Crypto SDK can recognize the chain you want to work with.
 
 ### Import Functions
 
-In the first step you need to import the Palindrome Pay SDK into your JavaScript/TypeScript project with the needed function `PalindromePayConnect`.
+In the first step you need to import thePalindrome Crypto Pay SDK into your JavaScript/TypeScript project with the needed function `PalindromePayConnect`.
 
 ```js
 import { PalindromePayConnect } from '@Palindromepay/sdk'
